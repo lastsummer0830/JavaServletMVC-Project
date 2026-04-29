@@ -27,9 +27,7 @@ Servers/
 RemoteSystemsTempFiles/
 .recommenders/
 
-# PC마다 달라질 수 있는 Eclipse classpath
-.classpath
-**/.classpath
+
 
 # .project는 Dynamic Web Project 인식을 위해 Git에 유지
 !.project
