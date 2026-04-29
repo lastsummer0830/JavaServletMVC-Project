@@ -1,4 +1,4 @@
-package main.java.common.config;
+package common.config;
 
 import java.io.IOException;
 import java.io.InputStream;

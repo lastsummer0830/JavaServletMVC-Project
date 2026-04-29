@@ -1,4 +1,4 @@
-package main.java.common.controller;
+package common.controller;
 
 import java.io.IOException;
 
