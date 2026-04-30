@@ -97,3 +97,4 @@ Thumbs.db
 # =========================
 *.war
 *.ear
+.classpath
