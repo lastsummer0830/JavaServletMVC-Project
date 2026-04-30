@@ -96,4 +96,5 @@ Thumbs.db
 # Generated WAR
 # =========================
 *.war
-*.ear.classpath
+*.ear
+.classpath
